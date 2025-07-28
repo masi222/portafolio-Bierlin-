@@ -30,7 +30,7 @@ Portfolio digital personal desarrollado con HTML y CSS como proyecto universitar
 - Navegación suave entre secciones
 - Foto de perfil personalizada
 - Paleta de colores personalizada
-- Formulario de contacto funcional
+- Formulario de contacto 
 - Menu hamburguesa para móviles
 
 ---
