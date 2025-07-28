@@ -9,8 +9,8 @@
 Portfolio digital personal desarrollado con HTML y CSS como proyecto universitario. Incluye información profesional, habilidades y proyectos realizados.
 
 ## Enlaces del Proyecto
-- **GitHub:** 
-- **Vercel:** 
+- **GitHub:** https://github.com/masi222/portafolio-Bierlin-.git 
+- **Vercel:** https://portafolio-bierlin.vercel.app/
 
 ## Tecnologías Utilizadas
 - HTML5
